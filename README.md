@@ -1,13 +1,13 @@
 ### Hi there 👋, I am Guillaume Milan - aka [Guignomes](https://www.deviantart.com/guignomes)
 
-## I am a developer that like open source project and inovation!
+## I am a developer that like open source and innovative projects!
 
 - 🔭 I’m currently working with [Kbrw][kbrw]
 - 🌱 I’m currently learning [Erlang][erlang]
 
 ### Connect with me:
 
-[<img align="left" alt="guillaume-milan-b7389212b" | Linkedin width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="guillaume-milan-b7389212b" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
