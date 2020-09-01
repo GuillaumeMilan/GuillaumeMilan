@@ -14,31 +14,16 @@
 ## Languages and Tools:
 
 
-#### Frontend:
+[<img align="left" alt="React"   width="26px"  src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/javascript.svg" />][javascript]
+[<img align="left" alt="React"   width="26px"  src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/react.svg" />][react]
+[<img align="left" alt="D3js"    width="26px"  src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/d3js.svg" />][d3js]
+[<img align="left" alt="Elixir"  height="26px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/elixir.svg" />][elixir-lang]
+[<img align="left" alt="Python"  width="26px"  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
+[<img align="left" alt="Jupyter" width="26px"  src="https://jupyter.org/assets/main-logo.svg" />][jupyter]
+[<img align="left" alt="Vim"     width="26px"  src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/vim.svg" />][vim]
 
-
-[<img style="margin-left:10px;" alt="React" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/javascript.svg" />][javascript]
-[<img style="margin-left:10px;" alt="React" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/react.svg" />][react]
-[<img style="margin-left:10px;" alt="D3js" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/d3js.svg" />][d3js]
-
-
-#### Backend:
-
-
-[<img style="margin-left:10px;" alt="Elixir" height="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/elixir.svg" />][elixir-lang]
-[<img style="margin-left:10px;" alt="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
-
-
-#### Data Analysis:
-
-
-[<img style="margin-left:10px;" alt="Jupyter" width="50px" src="https://jupyter.org/assets/main-logo.svg" />][jupyter]
-
-
-#### Coding tools:
-[<img style="margin-left:10px;" alt="Vim" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/vim.svg" />][vim]
-
-
+<br />
+<br />
 ---
 
 <img style="margin-left:10px;" alt="GuillaumeMilan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GuillaumeMilan&show_icons=true&hide_border=true" />
