@@ -24,9 +24,12 @@
 
 <br />
 <br />
+
+
 ---
 
-<img style="margin-left:10px;" alt="GuillaumeMilan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GuillaumeMilan&show_icons=true&hide_border=true" />
+
+<img align="left" alt="GuillaumeMilan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GuillaumeMilan&show_icons=true&hide_border=true" />
 
 
 ### Thanks
