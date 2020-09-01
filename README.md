@@ -14,17 +14,26 @@
 ## Languages and Tools:
 
 #### Frontend:
-[![Javascript](/GuillaumeMilan/GuillaumeMilan/raw/master/images/javascript.svg)][javascript]
-[![React](/GuillaumeMilan/GuillaumeMilan/raw/master/images/react.svg)][react]
+[<img align="left" alt="React" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/javascript.svg" />][javascript]
+[<img align="left" alt="React" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/react.svg" />][react]
+[<img align="left" alt="D3js" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/d3js.svg" />][d3js]
+
 
 #### Backend:
-[![Elixir](/GuillaumeMilan/GuillaumeMilan/raw/master/images/elixir.svg)][elixir-lang]
+[<img align="left" alt="Elixir" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/elixir.svg" />][elixir-lang]
+[<img align="left" alt="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
 
+
+#### Data Analysis
+
+[<img align="left" alt="Jupyter" width="50px" src="https://jupyter.org/assets/main-logo.svg" />][jupyter]
 
 #### Coding tools:
-[![Vim](/GuillaumeMilan/GuillaumeMilan/raw/master/images/vim.svg)][vim]
+[<img align="left" alt="Vim" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/vim.svg" />][vim]
 
+---
 
+<img align="left" alt="GuillaumeMilan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GuillaumeMilan&show_icons=true&hide_border=true" />
 
 ### Thanks
 
@@ -51,3 +60,6 @@ Here are some ideas to get you started:
 [erlang]: https://www.erlang.org/
 [vim]: https://www.vim.org/
 [linkedin]: https://www.linkedin.com/in/guillaume-milan-b7389212b/
+[d3js]: https://d3js.org/
+[python]: https://www.python.org/
+[jupyter]: https://jupyter.org/
