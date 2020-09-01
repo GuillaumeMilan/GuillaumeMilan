@@ -14,15 +14,15 @@
 ## Languages and Tools:
 
 #### Frontend:
-[![Javascript](./images/javascript.svg)][javascript]
-[![React](./images/react.svg)][react]
+[![Javascript](/GuillaumeMilan/GuillaumeMilan/raw/master/images/javascript.svg)][javascript]
+[![React](/GuillaumeMilan/GuillaumeMilan/raw/master/images/react.svg)][react]
 
 #### Backend:
-[![Elixir](./images/elixir.svg)][elixir-lang]
+[![Elixir](/GuillaumeMilan/GuillaumeMilan/raw/master/images/elixir.svg)][elixir-lang]
 
 
 #### Coding tools:
-[![Vim](./images/vim.svg)][vim]
+[![Vim](/GuillaumeMilan/GuillaumeMilan/raw/master/images/vim.svg)][vim]
 
 
 
