@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img  alt="guillaume-milan-b7389212b" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img style="margin-left:10px;" alt="guillaume-milan-b7389212b" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -17,46 +17,31 @@
 #### Frontend:
 
 
-[<img  alt="React" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/javascript.svg" />][javascript]
-[<img  alt="React" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/react.svg" />][react]
-[<img  alt="D3js" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/d3js.svg" />][d3js]
-
-
-</br>
-
+[<img style="margin-left:10px;" alt="React" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/javascript.svg" />][javascript]
+[<img style="margin-left:10px;" alt="React" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/react.svg" />][react]
+[<img style="margin-left:10px;" alt="D3js" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/d3js.svg" />][d3js]
 
 
 #### Backend:
 
 
-[<img  alt="Elixir" height="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/elixir.svg" />][elixir-lang]
-[<img  alt="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
-
-
-</br>
+[<img style="margin-left:10px;" alt="Elixir" height="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/elixir.svg" />][elixir-lang]
+[<img style="margin-left:10px;" alt="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
 
 
 #### Data Analysis:
 
 
-[<img  alt="Jupyter" width="50px" src="https://jupyter.org/assets/main-logo.svg" />][jupyter]
-
-
-</br>
+[<img style="margin-left:10px;" alt="Jupyter" width="50px" src="https://jupyter.org/assets/main-logo.svg" />][jupyter]
 
 
 #### Coding tools:
-[<img  alt="Vim" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/vim.svg" />][vim]
+[<img style="margin-left:10px;" alt="Vim" width="50px" src="/GuillaumeMilan/GuillaumeMilan/raw/master/images/vim.svg" />][vim]
 
 
-</br>
 ---
-</br>
 
-<img  alt="GuillaumeMilan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GuillaumeMilan&show_icons=true&hide_border=true" />
-
-
-</br>
+<img style="margin-left:10px;" alt="GuillaumeMilan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GuillaumeMilan&show_icons=true&hide_border=true" />
 
 
 ### Thanks
