@@ -3,7 +3,7 @@
 ## I am a developer that like open source and innovative projects!
 
 - 🔭 I’m currently working with [Kbrw][kbrw]
-- 🌱 I’m currently learning [Erlang][erlang]
+- 🌱 I’m currently learning [Erlang][erlang] and [Elm][elm]
 
 ### Connect with me:
 
@@ -34,7 +34,7 @@
 
 ### Thanks
 
-A big thank you to *[codeSTACKr][codestackrwebsite]* for his explaination on how to create a greate Readme
+A big thank you to *[codeSTACKr][codestackrwebsite]* for his explaination on how to create a great Readme
 
 <!--
 **GuillaumeMilan/GuillaumeMilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,3 +60,4 @@ Here are some ideas to get you started:
 [d3js]: https://d3js.org/
 [python]: https://www.python.org/
 [jupyter]: https://jupyter.org/
+[elm]: https://elm-lang.org/
