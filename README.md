@@ -3,7 +3,7 @@
 ## I am a developer that like open source and innovative projects!
 
 - 🔭 I’m currently working with [Kbrw][kbrw]
-- 🌱 I’m currently learning [Erlang][erlang] and [Elm][elm]
+- 🌱 I’m currently learning [Erlang][erlang]
 
 ### Connect with me:
 
