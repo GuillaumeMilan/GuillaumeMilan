@@ -2,7 +2,8 @@
 
 ## I am a developer who likes open source and innovative projects!
 
-- 🔭 I’m currently working with [Kbrw][kbrw]
+- 🤠 I previously worked at [Kbrw][kbrw]
+- 🔭 I’m currently working at [Sonio][sonio]
 - 🌱 I’m currently learning [Erlang][erlang]
 
 ### Connect with me:
@@ -50,6 +51,7 @@ Here are some ideas to get you started:
 -->
 
 [kbrw]: https://kbrw.fr
+[sonio]: https://sonio.ai/
 [codestackrwebsite]: https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [react]: https://reactjs.org/
