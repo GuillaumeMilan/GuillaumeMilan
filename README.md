@@ -20,7 +20,7 @@
 [<img align="left" alt="D3js"    width="26px"  src="https://raw.githubusercontent.com/GuillaumeMilan/GuillaumeMilan/master/images/d3js.svg" />][d3js]
 [<img align="left" alt="Elixir"  height="26px" src="https://raw.githubusercontent.com/GuillaumeMilan/GuillaumeMilan/master/images/elixir.svg" />][elixir-lang]
 [<img align="left" alt="Python"  width="26px"  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
-[<img align="left" alt="Jupyter" width="26px"  src="https://jupyter.org/assets/main-logo.svg" />][jupyter]
+[<img align="left" alt="Jupyter" width="26px"  src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" />][jupyter]
 [<img align="left" alt="Vim"     width="26px"  src="https://raw.githubusercontent.com/GuillaumeMilan/GuillaumeMilan/master/images/vim.svg" />][vim]
 
 <br />
